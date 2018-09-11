@@ -1,0 +1,6 @@
+# Directories
+bin/
+external/
+
+#Executables
+*.exe
